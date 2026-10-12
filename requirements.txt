@@ -1,0 +1,10 @@
+# Econometrics (PhD) -- course environment.
+# Install: pip install -r requirements.txt  (inside the .venv)
+
+numpy
+pandas
+scipy
+statsmodels
+matplotlib
+jupyter
+ipykernel

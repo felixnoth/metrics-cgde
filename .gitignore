@@ -1,0 +1,14 @@
+# private working notes stay out of the public repo
+PROJECT-STATUS.md
+
+# python detritus
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# data and credentials never go to the remote
+*.csv
+*.dta
+*.xlsx
+.env
+.DS_Store
