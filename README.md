@@ -18,9 +18,11 @@ on GitHub before running anything yourself.
 | `session-01-ols/` | OLS by matrix algebra: derivation, a small worked example, the variance-covariance matrix, standard errors, a Monte Carlo look at the sampling distribution, and the Frisch–Waugh–Lovell theorem (regression anatomy). |
 | `session-02-logs/` | Logs in regressions: elasticities, exact vs. approximate interpretation of log coefficients, the log base 1.1 trick, and why `log(1+Y)` / `arcsinh(Y)` fail with zeros — with the unit-invariant alternatives (two-part margins, levels OLS, Poisson). |
 | `session-03-interactions/` | Interaction effects: what the coefficients mean, marginal effects with delta-method standard errors over the moderator, the Brambor–Clark–Golder checklist, binary × binary (the DiD shape), centering, and the "16 times" power rule. |
+| `session-04-good-bad-controls/` | Good and bad controls: regression anatomy revisited, nine simulated worlds (confounder, mediator, collider, M-bias, bias amplifier, …) with one estimator, why coefficient movement is not a diagnostic, when a control is needed at all (Cunningham), Gelbach's decomposition and Oster's δ. |
 
-Sessions 1–3 accompany lecture AE1.1 (Regression Review I and II). More
-sessions are added over the term.
+Sessions 1–3 accompany lecture AE1.1 (Regression Review I and II), session 4
+accompanies AE1.2 (Causality and Potential Outcomes I). More sessions are
+added over the term.
 
 ## Readings
 

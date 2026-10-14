@@ -12,3 +12,7 @@ __pycache__/
 *.xlsx
 .env
 .DS_Store
+
+# review scaffolding
+redteam-prompt.md
+REDTEAM-REPORT.md
