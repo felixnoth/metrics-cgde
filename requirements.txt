@@ -1,5 +1,7 @@
 # Econometrics (PhD) -- course environment.
 # Install: pip install -r requirements.txt  (inside the .venv)
+# Stored outputs were last regenerated (October 2026) with numpy 2.5, pandas 3.0, statsmodels 0.15,
+# scipy 1.18, matplotlib 3.11 on Python 3.11+; other versions may change digits or warnings.
 
 numpy
 pandas
